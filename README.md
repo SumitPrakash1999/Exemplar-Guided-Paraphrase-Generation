@@ -1,14 +1,6 @@
-#  Advanced Natural Language Processing Project
+#  Exemplar Guided Paraphrase Generation
 
 ## Contrastive Representation Learning for Exemplar-Guided Paraphrase Generation
-
-### Team Members
-
-| **Author Name** | **Roll Number** |
-|-----------------|-----------------|
-| Sagnick Bhar        | 2023201008             |
-| Sumit Prakash        | 2023201020             |
-| Aman Khurana        | 2023201017             |
 
 ---
 
